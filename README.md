@@ -26,12 +26,6 @@ I have worked on various tech-stacks. But techologies I am confident with are:
 - Jenkins
 - Azure DevOps
 
-## Stats
-
-![Kundan Bhasin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kundanb&theme=radical)
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=kundanb&layout=compact&theme=radical)
-
 ## Professional Details
 
 - **Industry:** Software Development
