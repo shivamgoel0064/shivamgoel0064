@@ -1,8 +1,5 @@
-## Hi there 👋
 
 # Shivam Goel's Portfolio
-
-<img src="myImage.jpg" alt="Shivam Goel" width="300">
 
 Welcome to my Portfolio.
 
