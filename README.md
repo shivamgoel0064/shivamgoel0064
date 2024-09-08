@@ -35,13 +35,13 @@ I have worked on various tech-stacks. But techologies I am confident with are:
 ## Professional Details
 
 - **Industry:** Software Development
-- **Total years of experience:** 3
+- **Total years of experience:** 2.5
 - **Eligible to work in:** India
-- **Preferred Locations:** Noida, Chennai, Bangalore, Coimbatore
+- **Preferred Locations:** Any
 
 ## Personal Details
 
-- **Date of Birth:** 11 June, 2000
+- **Date of Birth:** 12 August, 2000
 - **Gender:** Male
 - **Nationality:** Indian
 
