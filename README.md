@@ -2,7 +2,7 @@
 
 # Shivam Goel's Portfolio
 
-<img src="pic.png" alt="Kundan Bhasin" width="300">
+<img src="myImage.png" alt="Shivam Goel" width="300">
 
 Welcome to my Portfolio.
 
