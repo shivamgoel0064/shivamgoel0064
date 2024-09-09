@@ -16,7 +16,6 @@ I have worked with a variety of technologies, but I am most confident with:
 - **HTML/CSS**
 - **JavaScript**
 - **REST APIs**
-- **Docker, Kubernates**
 
 ### ⚙️ Additional Skills
 - **Postman**
@@ -25,17 +24,32 @@ I have worked with a variety of technologies, but I am most confident with:
 - **JIRA**
 - **Azure DevOps**
 - **Agile Methodologies**
+- **Docker**, **Kubernetes** for containerization
+- **Kafka**, **RabbitMQ** for messaging
 
 ## 📂 Professional Details
-- **Industry**: Software Engineering
+- **Industry**: Software Development
 - **Total Experience**: 2.5 years
 - **Eligible to Work**: India
 - **Preferred Locations**: Open to any location
 
-## 📋 Personal Details
-- **Date of Birth**: 12 August 2000
-- **Gender**: Male
-- **Nationality**: Indian
+## 📚 Personal Projects
+### **Book Repository Manager**
+A comprehensive solution to streamline library operations:
+- Role-based access control for admins and librarians.
+- Manage book inventory, including adding, updating, and removing books.
+- Borrowing system with due date tracking, overdue notifications, and automated return processing.
+- Advanced search functionality for users to find books by title, author, or genre.
+- **Tech Stack**: Java, Spring Boot, PostgreSQL, Spring JPA, Thymeleaf.
+
+## 🏆 Achievements
+- **Ace Employee Award (2023)**: Awarded for exceptional performance in software development at BPAAS Solutions Pvt Ltd.
+- **Pinnacle Performance Award (2023)**: Recognized for outstanding contributions to development projects.
+
+## 🌐 Let's Connect!
+- **LinkedIn**: [Your LinkedIn Profile](#)
+- **GitHub**: [Your GitHub Profile](#)
+- **Email**: shivamgoel0064@gmail.com
 
 ---
 
