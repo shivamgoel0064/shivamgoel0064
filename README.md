@@ -27,7 +27,7 @@ I have worked with a variety of technologies, but I am most confident with:
 - **Agile Methodologies**
 
 ## 📂 Professional Details
-- **Industry**: Software Development
+- **Industry**: Software Engineering
 - **Total Experience**: 2.5 years
 - **Eligible to Work**: India
 - **Preferred Locations**: Open to any location
