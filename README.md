@@ -16,6 +16,7 @@ I have worked with a variety of technologies, but I am most confident with:
 - **HTML/CSS**
 - **JavaScript**
 - **REST APIs**
+- **Docker, Kubernates**
 
 ### ⚙️ Additional Skills
 - **Postman**
