@@ -6,7 +6,7 @@ Welcome to my portfolio!
 I am a passionate **Java Developer** and tech enthusiast based in Delhi NCR, India, with over 2.5 years of experience in building robust and scalable web applications. My core expertise lies in **Java**, **Spring Boot**, and **Microservices**, with a solid foundation in programming principles and design patterns. As a self-taught developer, I am committed to continuous learning, constantly expanding my skill set to stay at the forefront of technology. I thrive on solving complex challenges and enjoy crafting innovative solutions that make an impact.
 
 ## 🚀 Skills
-I have worked with a variety of technologies, but I am most confident with:
+I excel in building reliable and scalable applications, with expertise in:
 
 - **Java**
 - **Spring Boot**
