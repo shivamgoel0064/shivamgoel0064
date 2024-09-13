@@ -47,7 +47,7 @@ A comprehensive solution to streamline library operations:
 - **Pinnacle Performance Award (2023)**: Recognized for outstanding contributions to development projects.
 
 ## 🌐 Let's Connect!
-- **LinkedIn**: [Your LinkedIn Profile](#)
+- **LinkedIn**: [Shivam Goel](https://www.linkedin.com/in/shivam-goel-85a514191?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - **GitHub**: [Your GitHub Profile](#)
 - **Email**: shivamgoel0064@gmail.com
 
