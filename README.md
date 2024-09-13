@@ -48,7 +48,7 @@ A comprehensive solution to streamline library operations:
 
 ## 🌐 Let's Connect!
 - **LinkedIn**: [Shivam Goel](https://www.linkedin.com/in/shivam-goel-85a514191?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- **GitHub**: [shivamgoel0064](https://github.com/shivamgoel0064)
+- **GitHub**: [Shivam Goel](https://github.com/shivamgoel0064)
 - **Email**: shivamgoel0064@gmail.com
 
 ---
