@@ -21,7 +21,6 @@ I excel in building reliable and scalable applications, with expertise in:
 - **Postman**
 - **GitHub/Bitbucket**
 - **Jenkins**
-- **JIRA**
 - **Azure DevOps**
 - **Agile Methodologies**
 - **Docker**, **Kubernetes** for containerization
