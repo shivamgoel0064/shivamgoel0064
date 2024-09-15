@@ -42,8 +42,8 @@ A comprehensive solution to streamline library operations:
 - **Tech Stack**: Java, Spring Boot, PostgreSQL, Spring JPA, Thymeleaf.
 
 ## 🏆 Achievements
-- **Ace Employee Award (2023)**: Awarded for exceptional performance in software development at BPAAS Solutions Pvt Ltd.
-- **Pinnacle Performance Award (2023)**: Recognized by our esteemed implementation partner, **Newgen** for outstanding contributions to development projects.
+- **Ace Employee Award (2023)**: Awarded for exceptional performance in software development at **BPAAS Solutions Pvt Ltd**.
+- **Pinnacle Performance Award (2024)**: Recognized by our esteemed implementation partner, **Newgen** for outstanding contributions to development projects.
 
 ## 🌐 Let's Connect!
 - **LinkedIn**: [Shivam Goel](https://www.linkedin.com/in/shivam-goel-85a514191?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
