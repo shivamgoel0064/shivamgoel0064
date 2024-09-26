@@ -20,7 +20,7 @@ I excel in building reliable and scalable applications, with expertise in:
 ### ⚙️ Additional Skills
 - **Postman**
 - **GitHub/Bitbucket**
-- **Jenkins**
+- **Jenkins** for CI/CD
 - **Azure DevOps**
 - **Agile Methodologies**
 - **Docker**, **Kubernetes** for containerization
